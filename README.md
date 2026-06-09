@@ -9,7 +9,7 @@ To use this repository as a template, click on the green **Use this template** b
 Alternatively, you can simply clone this repository with the following commands:
 ```bash
 # You can change "MyCoolMod" to anything you'd like
-git clone https://github.com/Weave-MC/example-mod-kotlin MyCoolMod 
+git clone https://github.com/Weave-MC/ExampleMod-Kotlin MyCoolMod 
 cd MyCoolMod
 ```
 
